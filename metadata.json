@@ -1,0 +1,6 @@
+{
+  "name": "Escape Banner",
+  "description": "Discover Paris: Experience the Extraordinary. Curated tours, iconic experiences, and personalized Parisian journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
